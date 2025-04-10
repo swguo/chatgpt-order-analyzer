@@ -1,0 +1,33 @@
+原始欄位名稱,位置說明,資料範例,Excel欄位建議（中/英）,是否為重複集合
+採購單號,頁面上方,RM15-2503001795,採購單號 / Purchase Order No.,否
+採購日期,採購單號後,2025/3/28,採購日期 / Purchase Date,否
+製表日期,頁面右上角,25/03/28 13:40:44,製表日期 / Print Date,否
+頁次,頁面右上角,1/1,頁次 / Page Number,否
+採購員,接近中段,黃暄祐,採購員 / Purchaser,否
+幣別,採購日期下方,TWD,幣別 / Currency,否
+公司名稱,頁首,力山工業股份有限公司,採購公司 / Company Name,否
+公司地址,頁首,台中市大里區仁化路261號,公司地址 / Company Address,否
+公司電話/傳真,頁首,04-24914141 / 04-24915898,公司電話 / Tel / Fax,否
+供應商名稱,標題下「供應廠商」處,川鋐工業有限公司,供應商 / Supplier Name,否
+廠商統編,供應商地址下,22815541,統一編號 / Supplier Tax ID,否
+供應商地址,,台中市大里區中投西路三段669號,供應商地址 / Supplier Address,否
+下一道廠商代號,採購員之下,2GA11,下一道廠商代碼 / Next Vendor ID,否
+APS下道次廠商,下段文字,04-24066981,APS廠商電話 / APS Vendor Phone,否
+項次,明細最前欄,1,項次 / Item No.,是
+廠商料號,項次後,10FF50AK,廠商料號 / Vendor Part No.,是
+品名/規格,廠商料號後,飛輪,品名 / Item Name,是
+額外說明,品名後續欄,SB22MT;FC20-R24,規格 / Specification,是
+料件編號,品名下方,1000444811,料件編號 / Part No.,是
+行序,出現在物料區後,-,行序 / Sequence No.,是
+交貨日,單筆明細右上部,2025/05/13,交貨日 / Delivery Date,是
+數量,緊接在交貨日旁,160.00,數量 / Quantity,是
+單位,緊接在數量後,PC,單位 / Unit,是
+稅前單價,數量後接尾碼，如：62.50T900,62.50,單價 / Unit Price (Before Tax),是
+倉儲地點 / 倉庫,緊接單價後,T900,倉庫代碼 / Warehouse Code,是
+倉管員,倉儲後接姓名,呂俊明,倉管員 / Warehouse Staff,是
+檢驗與否,「免驗」或「應驗」,免驗,檢驗狀態 / Inspection Required (Y/N),是
+實際交貨量,貨量區右側,160.00A,實際交貨量 / Actual Delivered Quantity,是
+未交量,實際交貨量旁,160.00,未交量 / Undelivered Quantity,是
+工單備料用量,品名下方標示,10FF50AK11 160.00,備料用量 / Required Material Quantity,是
+檢驗員 / 物料員簽名,最下方,,簽名 / Inspector / Material Handler,是
+不合格數,簽名旁,,不合格數量 / Rejected Quantity,是
